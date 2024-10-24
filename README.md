@@ -1,4 +1,5 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-da-silva-7858a0167/)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gabrielcerqueira000@gmail.com)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielsilva000&show_icons=true&theme=dracula)
 
